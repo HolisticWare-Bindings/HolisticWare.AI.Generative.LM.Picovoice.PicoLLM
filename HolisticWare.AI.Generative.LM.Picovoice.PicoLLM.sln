@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "source", "source", "{B8EFCA5F-814F-285C-A8CB-F00F14650265}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolisticWare.AI.Generative.LM.Picovoice.PicoLLM", "source\HolisticWare.AI.Generative.LM.Picovoice.PicoLLM\HolisticWare.AI.Generative.LM.Picovoice.PicoLLM.csproj", "{00B5D3A7-29F5-F201-57BE-D46C61A76856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00B5D3A7-29F5-F201-57BE-D46C61A76856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B5D3A7-29F5-F201-57BE-D46C61A76856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B5D3A7-29F5-F201-57BE-D46C61A76856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B5D3A7-29F5-F201-57BE-D46C61A76856}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{00B5D3A7-29F5-F201-57BE-D46C61A76856} = {B8EFCA5F-814F-285C-A8CB-F00F14650265}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34F1968A-FE96-4A80-8436-C609E1570D16}
+	EndGlobalSection
+EndGlobal
