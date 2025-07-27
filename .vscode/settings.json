@@ -1,0 +1,12 @@
+{
+    /*
+    https://code.visualstudio.com/docs/copilot/copilot-customization#_use-a-githubcopilotinstructionsmd-file
+    instruct VS Code to automatically use the copilot-instructions.md file for every chat request
+    */
+    "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+    "chat.instructionsFilesLocations": 
+    {
+        ".github/instructions": true
+    }
+}
+
