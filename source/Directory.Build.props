@@ -1,6 +1,9 @@
 <Project>
   <PropertyGroup>
-    <ErrorLog>obj/$(MSBuildProjectName).sarif</ErrorLog>
+    <!--
+    https://github.com/dotnet/android-libraries/pull/1135
+    -->
+    <ErrorLog>obj/$(MSBuildProjectName).sarif.json</ErrorLog>
 
     <PackOnBuild>true</PackOnBuild>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
