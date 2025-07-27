@@ -1,0 +1,25 @@
+{
+	"folders": 
+    [
+		{
+			"path": "source",
+			"name": "libraries-source"
+		},
+		{
+			"path": "samples",
+			"name": "samples"
+		},
+		{
+			"path": "docs",
+			"name": "docs"
+		},
+		{
+			"path": "tests",
+			"name": "tests"
+		}
+	],
+	"settings": 
+    {
+		"editor.tabSize": 4
+	}
+}
